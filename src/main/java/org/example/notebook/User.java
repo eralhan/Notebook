@@ -1,6 +1,6 @@
 package org.example.notebook;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 @Table(name = "\"user\"")
